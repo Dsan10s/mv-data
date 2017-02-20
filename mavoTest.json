@@ -1,4 +1,9 @@
 {
 	"email": "foo@bar.com",
-	"message": "lotta dat"
+	"message": "lotta dat",
+	"hobby": [
+		"Nothing",
+		"Something",
+		"Erryting"
+	]
 }

@@ -5,5 +5,15 @@
 		"Nothing",
 		"Something",
 		"Erryting"
+	],
+	"People": [
+		{
+			"name": "Danny Sanchez",
+			"birthday": "1994-08-04"
+		},
+		{
+			"name": "Some other guy",
+			"birthday": "2017-02-20"
+		}
 	]
 }

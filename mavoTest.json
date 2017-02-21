@@ -8,12 +8,16 @@
 	],
 	"People": [
 		{
-			"name": "Danny Sanchez",
+			"name": "Danny Sanchez esq.",
 			"birthday": "1994-08-04"
 		},
 		{
 			"name": "Some other guy",
 			"birthday": "2017-02-20"
 		}
-	]
+	],
+	"strength": 50,
+	"hue": 180,
+	"saturation": 50,
+	"lightness": 50
 }

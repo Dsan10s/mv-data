@@ -1,4 +1,13 @@
 {
+	"i_task": [
+		{
+			"i_taskName": "Do the dishes"
+		},
+		{}
+	],
+	"c_task": [
+		{}
+	],
 	"events": [
 		{
 			"eventName": "6.824 Lecture",

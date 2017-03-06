@@ -1,20 +1,5 @@
 {
-	"events": [
-		{
-			"eventName": "Mavo Meeting",
-			"startTime": "13:00",
-			"endTime": "14:00"
-		},
-		{
-			"eventName": "18.200 Lecture",
-			"startTime": "14:00",
-			"endTime": "15:00"
-		},
-		{
-			"eventName": "Gym",
-			"startTime": "15:00"
-		}
-	],
+	"events": [],
 	"task": [],
 	"i_task": [
 		{

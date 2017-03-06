@@ -1,7 +1,8 @@
 {
 	"task": [
 		{
-			"taskChecked": false
+			"taskChecked": false,
+			"taskName": "Do dishes"
 		},
 		{
 			"taskChecked": true
